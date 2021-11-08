@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkeen31
-- 👀 I’m interested in cybersecurity, C programming, Python programming, and software development
+- 👀 I’m interested in cybersecurity, systems programming, C programming, Python programming, and software development
 - 🌱 I’m currently learning compiler design, systems programming, and software security
 - 📫 How to reach me: https://www.michaeljkeen.com/contact
 - 😄 Pronouns: He/Him
