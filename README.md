@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkeen31
-- 👀 I’m interested in cybersecurity, systems programming, C programming, Python programming, and software development
-- 🌱 I’m currently learning compiler design, systems programming, and software security
+- 👀 I’m interested in web development, web security, cloud development, and low-level network programming
+- 🌱 I’m currently learning C#, ASP.NET, and REST API design
 - 📫 How to reach me: https://www.michaeljkeen.com/contact
 - 😄 Pronouns: He/Him
 
