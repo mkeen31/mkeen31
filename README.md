@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkeen31
-- 👀 I’m interested in web development, web security, cloud development, and low-level network programming
+- 👀 I’m interested in web development, web security, cloud development, operating systems, and network programming/engineering
 - 🌱 I’m currently learning C#, ASP.NET, and REST API design
 - 📫 How to reach me: https://www.michaeljkeen.com/contact
 - 😄 Pronouns: He/Him
