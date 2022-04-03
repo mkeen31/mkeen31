@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkeen31
 - 👀 I’m interested in web development, web security, cloud development, operating systems, and network programming
-- 🌱 I’m currently learning ASP.NET Core, Vue.js, AWS services, and software design principles
+- 🌱 I’m currently learning ASP.NET Core, Vue.js, AWS services, software design principles, and socket programming
 - 📫 How to reach me: https://www.michaeljkeen.com/contact
 - 😄 Pronouns: He/Him
 
